@@ -121,4 +121,5 @@ apiUsuarios/
 
 
 ---
-
+## Link de Acceso a la api en Azure
+https://apiusers-d8drfrcbawbmekgm.brazilsouth-01.azurewebsites.net/swagger-ui/index.html#/Autenticacion/login
