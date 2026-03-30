@@ -23,7 +23,7 @@
 | **Spring Data JPA** | - | Acceso a datos |
 | **Hibernate** | 6.3.1 | ORM (Object-Relational Mapping) |
 | **JWT (JJWT)** | 0.11.5 | Tokens de autenticación |
-| **SQL Server JDBC** | - | Driver para base de datos |
+| **PostgreSQL JDBC** | - | Driver para base de datos |
 | **Swagger/OpenAPI** | 2.1.0 | Documentación automática |
 | **BCrypt** | - | Encriptación de contraseñas |
 | **Lombok** | - | Generación de código |
@@ -123,3 +123,4 @@ apiUsuarios/
 ---
 ## Link de Acceso a la api en Azure
 https://apiusers-d8drfrcbawbmekgm.brazilsouth-01.azurewebsites.net/swagger-ui/index.html#/Autenticacion/login
+
